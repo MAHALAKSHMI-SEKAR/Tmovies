@@ -180,8 +180,7 @@ header.shadow .logo{
     left: 0;
     transition: 0.4s all linear;
 }
-.nav-bar a:hover::after,
-.nav-bar .home-active::after{
+.nav-bar a:hover::after{
     width: 100%;
 }
 #menu-icon{
